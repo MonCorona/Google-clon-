@@ -201,8 +201,9 @@ footer .mexico{
     width: 96.89999;
     /* BORDE DE COLOR: ANCHURA DE LINEA, ESTILO, COLOR */
     border: 2PX solid #dfe1e5;
-    margin-top: 250px;
+    margin-top: 220px;
     padding: 10px 15px 10px;
+    
     
 }
 
@@ -245,7 +246,7 @@ footer .footer-right{
     justify-content: space-around;
     text-align: end;
     align-items: end;
-    padding: 5px 80px 5px;;
+    padding: 5px 60px 5px;;
 
     list-style: none;
     margin: none;
